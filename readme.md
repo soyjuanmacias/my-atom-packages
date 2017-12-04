@@ -11,8 +11,8 @@
 3. Enjoy it
 
 
-#Español
-#Comando APM para instalar los plugins que yo uso para el editor Atom
+# Español
+# Comando APM para instalar los plugins que yo uso para el editor Atom
 
 ## Como usar
 1. Instalar los Comandos de Terminal de Atom. En tu editor:
