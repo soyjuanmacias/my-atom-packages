@@ -5,6 +5,7 @@
 
 ## How to use
 1. Install Atom Shell Commands in your editor:
+
 ![Atom Install Shell Commands](https://image.prntscr.com/image/PNu37xQwSZCgyMoyrzLYsw.png)
 2. Copy all the the apm-command and paste in your console: Terminal, iTerm or what you uses.
 
@@ -16,6 +17,7 @@
 
 ## Como usar
 1. Instalar los Comandos de Terminal de Atom. En tu editor:
+
 ![Atom Install Shell Commands](https://image.prntscr.com/image/PNu37xQwSZCgyMoyrzLYsw.png)
 
 2. Copia todo el contenido del archivo apm-command y pegalo en tu consola: Terminal, iTerm o la que uses.
